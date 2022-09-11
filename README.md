@@ -1,3 +1,3 @@
 # Desafios-Rockseat
  
- <a href="https://gedvaldocordeiro.github.io/Desafios-Rockseat/desafio-receita/">Receita Bife à Milanesa</a>
+ <a href="https://gedvaldocordeiro.github.io/Desafios-Rockseat/desafio-receita/" target="_blank">Receita Bife à Milanesa</a>
